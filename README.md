@@ -1,5 +1,7 @@
 # node-chat-app
-A Chat Application made using Nodejs and Websockets
+A Chat Application made using Nodejs and Websockets. Enable interaction between multiple users. 
+
+[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 
 # Pre Requisites
 1. <a href="https://nodejs.org/en/download/" > Nodejs - ^8.10.0 </a>
@@ -14,5 +16,6 @@ A Chat Application made using Nodejs and Websockets
 You can access the application at Port 3000 or the one that is set by process.env
 
 # Testing
+
 1. <code> npm install jest </code>
 2. <code> npm test </code>
