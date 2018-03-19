@@ -1,8 +1,8 @@
 # node-chat-app
-A Chat Application made using Nodejs and Websockets. Enable interaction between multiple users. 
+A Chat Application made using Nodejs and Socket.io. Enable interaction between multiple users. 
 
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Pre Requisites
 1. <a href="https://nodejs.org/en/download/" > Nodejs - ^8.10.0 </a>
 2. Npm - ^5.6.0
